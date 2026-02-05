@@ -12,5 +12,7 @@ expoente = float(input("Digite o expoente: "))
 resultado = math.pow(base,expoente)
 print(f"A {base} elevado a {expoente} = {resultado}")
 
+baegaewgaweg
+
 
 
